@@ -1,4 +1,4 @@
 puts "Hardcore coding!"
-10.times do
-  puts "Code some more!"
+def addition(a, b)
+  a + b 
 end
